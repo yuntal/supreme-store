@@ -26,15 +26,24 @@ To install the npm dependencies, run the following commands:
 npm install
 
 
+```
+npm install
+```
+
+
 <br> </br>
 
 
-Run the project
+Running the project
 
 
 To run the project, run the following commands:
 
 npm run start
+
+```
+npm run start
+```
 
 <br> </br>
 
