@@ -1,10 +1,3 @@
-<img width="1385" alt="e-commerce1" src="https://github.com/yuntal/supreme-store/assets/57660581/c18a78b0-0065-453a-b5a7-6e479be6897f">
-
-<img width="1238" alt="e-commerce2" src="https://github.com/yuntal/supreme-store/assets/57660581/5473d2c8-8b84-4e9c-a1cd-52320832a6ba">
-
-<img width="1152" alt="e-commerce3" src="https://github.com/yuntal/supreme-store/assets/57660581/9fa4ae43-ebd2-402a-b8fd-2ff489e986bf">
-
-
 Supreme E-commerce Store
 
 Description:
@@ -38,6 +31,19 @@ To run the project, execute the following command:
 ```bash
 npm run start
 ```
+
+<br> </br>
+
+What the project looks like when it's running
+
+<img width="1385" alt="e-commerce1" src="https://github.com/yuntal/supreme-store/assets/57660581/c18a78b0-0065-453a-b5a7-6e479be6897f">
+
+<img width="1238" alt="e-commerce2" src="https://github.com/yuntal/supreme-store/assets/57660581/5473d2c8-8b84-4e9c-a1cd-52320832a6ba">
+
+<img width="1152" alt="e-commerce3" src="https://github.com/yuntal/supreme-store/assets/57660581/9fa4ae43-ebd2-402a-b8fd-2ff489e986bf">
+
+<br> </br>
+
 
 <br> </br>
 
