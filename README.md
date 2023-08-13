@@ -1,5 +1,4 @@
-
-<img width="1309" alt="e-commerce1" src="https://github.com/yuntal/supreme-store/assets/57660581/77ac7bed-78a4-4a27-a120-7feebb624183">
+<img width="1385" alt="e-commerce1" src="https://github.com/yuntal/supreme-store/assets/57660581/c18a78b0-0065-453a-b5a7-6e479be6897f">
 
 <img width="1238" alt="e-commerce2" src="https://github.com/yuntal/supreme-store/assets/57660581/5473d2c8-8b84-4e9c-a1cd-52320832a6ba">
 
