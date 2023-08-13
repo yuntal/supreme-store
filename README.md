@@ -3,6 +3,8 @@ Supreme E-commerce Store
 Description:
 
 In this project, my purpose is to demonstrate a simple e-commerce website where customers can browse and interact with products. The website features a product list that can be added to the shopping bag. Customers can select multiple quantities of the same item. Upon checkout, a cart page displays the list of added products along with the subtotal. The page offers a "Keep Shopping" button to continue shopping and a "Checkout" button pre-filled with dummy data.
+<br> </br>
+
 
 Built With:
 <br> </br>
@@ -29,6 +31,9 @@ To run the project, execute the following command:
 ```bash
 npm run start
 ```
+
+<br> </br>
+
 
 Contact:
 
