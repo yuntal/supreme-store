@@ -1,63 +1,29 @@
-Supreme e-commerce store
+Supreme E-commerce Store
 
-<br> </br>
+Description:
 
-Description
+In this project, my purpose is to demonstrate a simple e-commerce website where customers can browse and interact with products. The website features a product list that can be added to the shopping bag. Customers can select multiple quantities of the same item. Upon checkout, a cart page displays the list of added products along with the subtotal. The page offers a "Keep Shopping" button to continue shopping and a "Checkout" button pre-filled with dummy data.
 
-In this project, my purpose is to demonstrate a simple e-commerce website, where the customer can look and interact with the products. There is a list of products you can add to your bag. You can also chose to add multiple of the same item, and at the end there is a cart page where you can see a list of the products that you've added, and the subtotal. There is a keep shopping button, that will keep the items in the array, and a checkout button that's filled with dummy data in this case. 
+Built With:
 
-<br> </br>
-
-
-Built With
-<br> </br>
-
-React JS 
+React JS
 React Bootstrap
+Download (npm packages are needed):
 
+To install the npm dependencies, run the following command:
 
-Download (npm packages is needed)
-
-<br> </br>
-
-
-
-To install the npm dependencies, run the following commands: 
-
+bash
+Copy code
 npm install
+Running the project:
 
+To run the project, execute the following command:
 
-```
-npm install
-```
-
-
-<br> </br>
-
-
-Running the project
-
-<br> </br>
-
-
-
-To run the project, run the following commands:
-
+bash
+Copy code
 npm run start
+Contact:
 
-```
-npm run start
-```
+Let's stay connected! You can find me on LinkedIn:
 
-<br> </br>
-
-
-
-Contact
-<br> </br>
-
-
-
-Let's keep in touch. You can find me on LinkedIn.
-
-https://www.linkedin.com/in/yunus-talay-324074191/ 
+LinkedIn Profile
