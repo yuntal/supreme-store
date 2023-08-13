@@ -12,11 +12,16 @@ React JS
 React Bootstrap
 
 
+
 Download (npm packages is needed)
+
 
 To install the npm dependencies, run the following commands: 
 
 npm install
+
+
+Run the project
 
 
 To run the project, run the following commands:
@@ -26,6 +31,8 @@ npm run start
 
 
 Contact
+
+
 Let's keep in touch. You can find me on LinkedIn.
 
 https://www.linkedin.com/in/yunus-talay-324074191/ 
