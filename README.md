@@ -12,8 +12,6 @@ In this project, my purpose is to demonstrate a simple e-commerce website, where
 
 Built With
 
-<br> </br>
-
 
 React JS 
 React Bootstrap
