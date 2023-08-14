@@ -1,4 +1,4 @@
-Supreme E-commerce Store
+cSupreme E-commerce Store
 
 Description:
 
@@ -36,11 +36,13 @@ npm run start
 
 What the project looks like when it's running
 
-<img width="1385" alt="e-commerce1" src="https://github.com/yuntal/supreme-store/assets/57660581/c18a78b0-0065-453a-b5a7-6e479be6897f">
+<img width="1440" alt="e-commerce1" src="https://github.com/yuntal/supreme-store/assets/57660581/a32bd990-cc46-4c42-91c7-7652e268910c">
+
 
 <img width="1238" alt="e-commerce2" src="https://github.com/yuntal/supreme-store/assets/57660581/5473d2c8-8b84-4e9c-a1cd-52320832a6ba">
 
-<img width="1152" alt="Skjermbilde 2023-08-14 kl  21 27 31" src="https://github.com/yuntal/supreme-store/assets/57660581/6b9a8774-1e29-4640-96d3-906533fd2245">
+<img width="1152" alt="e-commerce3" src="https://github.com/yuntal/supreme-store/assets/57660581/716576ea-3c95-45fa-971d-a3d2a805bdba">
+
 
 <br> </br>
 
