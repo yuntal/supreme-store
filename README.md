@@ -1,4 +1,4 @@
-cSupreme E-commerce Store
+Supreme E-commerce Store
 
 Description:
 
