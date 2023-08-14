@@ -40,8 +40,7 @@ What the project looks like when it's running
 
 <img width="1238" alt="e-commerce2" src="https://github.com/yuntal/supreme-store/assets/57660581/5473d2c8-8b84-4e9c-a1cd-52320832a6ba">
 
-<img width="1152" alt="e-commerce3" src="https://github.com/yuntal/supreme-store/assets/57660581/7aa64eb2-8d2a-438c-b810-d3d0176b651f">
-
+<img width="1152" alt="Skjermbilde 2023-08-14 kl  21 27 31" src="https://github.com/yuntal/supreme-store/assets/57660581/6b9a8774-1e29-4640-96d3-906533fd2245">
 
 <br> </br>
 
